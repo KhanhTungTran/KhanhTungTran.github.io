@@ -18,7 +18,7 @@ Education
     * Complex neural networks for artificial collective intelligence, e.g., Multi-Agent
 * *Sept 2018 – Nov 2022*: **B.Eng. in Computer Science (Honors Program), Ho Chi Minh City University of Technology (HCMUT), Vietnam**
   * Valedictorian of entrance examination
-  * Thesis: Development of an Expressive Neural Text-to-Speech System — Score: 9.9/10. Supervisor: Prof. Tho Quan
+  * Thesis: Development of an Expressive Neural Text-to-Speech System — Score: 9.9/10. Supervisor: Assoc. Prof. Tho Quan
   * GPA: 9.33/10
 
 Publications
