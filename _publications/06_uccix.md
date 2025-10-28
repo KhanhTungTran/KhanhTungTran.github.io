@@ -1,7 +1,7 @@
 ---
 title: "UCCIX: Irish-eXcellence Large Language Model"
 collection: publications
-permalink: /publications/05_uccix
+permalink: /publications/06_uccix
 venue: "<b>ECAI, 2024</b>"
 award: ""
 authors: '<b>Khanh-Tung Tran</b>, Barry O’Sullivan, Hoang D. Nguyen'

@@ -1,7 +1,7 @@
 ---
 title: "MGLEP: Multimodal Graph Learning for Modeling Emerging Pandemics with Big Data"
 collection: publications
-permalink: /publications/06_mglep
+permalink: /publications/04_mglep
 venue: "<b>Scientific Reports, 2024</b>"
 award: ""
 authors: '<b>Khanh-Tung Tran</b>, Truong-Son Hy, Lili Jiang, Xuan-Son Vu'

@@ -6,7 +6,7 @@ venue: "<b>EMNLP, 2025</b>"
 award: ""
 authors: '<b>Khanh-Tung Tran*</b>, Hang Vu*, Barry O’Sullivan, Hoang D. Nguyen'
 paper: ""
-code: ""
+code: "https://github.com/ReML-AI/DCL-CoT/"
 blog: ""
 slide: ""
 talk: ""
