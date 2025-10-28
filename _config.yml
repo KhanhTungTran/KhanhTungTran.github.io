@@ -23,7 +23,7 @@ repository               : "KhanhTungTran/KhanhTungTran.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Tung"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in CS at University Collge Cork, Ireland"
