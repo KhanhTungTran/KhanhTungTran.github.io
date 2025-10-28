@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * *Jan 2024 – Present*: **Ph.D. in Computer Science, University College Cork, Ireland**
