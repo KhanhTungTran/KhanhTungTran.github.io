@@ -24,8 +24,8 @@ Education
 Publications
 ======
 
-**Reasoning Transfer for an Extremely Low-resource and Endangered Language: Bridging Languages through Sample-Efficient Language Understanding**
-**Tran, K.T.**, O’Sullivan, B., & Nguyen, H.D.
+**Reasoning Transfer for an Extremely Low-resource and Endangered Language: Bridging Languages through Sample-Efficient Language Understanding**  
+**Tran, K.T.**, O’Sullivan, B., & Nguyen, H.D.  
 <span style="color:#007acc;">AAAI 2026</span>
 
 **Disentangling Language Understanding and Reasoning Structures in Cross-lingual Chain-of-Thought Prompting**  
