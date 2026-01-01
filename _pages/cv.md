@@ -100,30 +100,6 @@ Work experience
   * Duties included:
     * Social-media big-data pipeline for pandemic tracking/analysis — published at IEEE BigDataService
 
-Skills
-======
-* Programming
-  * Python
-  * C/C++
-* Deep learning frameworks
-  * PyTorch
-  * TensorFlow
-  * Transformers
-* Microservices
-  * Docker
-  * Docker Swarm
-* API & web deployment
-  * FastAPI
-  * Streamlit
-  * NetworkX
-  * Gradio
-* Tools & platforms
-  * Linux/Unix
-  * Azure Storage
-  * Git, GitHub
-* Languages
-  * English — IELTS Academic 7.5 overall
-
 Academic Services
 ======
 * Jan 2024 – June 2025: Teaching Assistant — UCC, Ireland
@@ -131,3 +107,18 @@ Academic Services
 * Sept 2020 – Dec 2021: Teaching Assistant — HCMUT, Vietnam
   * Courses: Intro to Computing; Programming Fundamentals; Data Structures & Algorithms
   * Duties included: Practical class instruction and organisation
+
+Skills
+======
+* Programming: Python; C/C++
+* Deep learning frameworks: PyTorch; TensorFlow; Transformers
+* Microservices: Docker; Docker Swarm
+* API & web deployment: FastAPI; Streamlit; NetworkX; Gradio
+* Tools & platforms: Linux/Unix; Azure Storage; Git, GitHub
+* Languages: English — IELTS Academic 7.5 overall
+
+Travel
+======
+* **ACL 2024**: Bangkok, Thailand
+* **AAAI-25**: Philadelphia, USA
+* **EMNLP 2025**: Suzhou, China
