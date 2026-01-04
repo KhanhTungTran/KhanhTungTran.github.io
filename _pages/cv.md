@@ -24,25 +24,26 @@ Education
 Publications
 ======
 
+**LaCoMSA: Language-Consistency Multilingual Self-Alignment with Latent Representation Rewarding**  
+**Tran, K.T.**, O’Sullivan, B., & Nguyen, H.D.  
+<span style="color:#007acc;">EACL 2026</span>
+
 **Reasoning Transfer for an Extremely Low-resource and Endangered Language: Bridging Languages through Sample-Efficient Language Understanding**  
 **Tran, K.T.**, O’Sullivan, B., & Nguyen, H.D.  
 <span style="color:#007acc;">AAAI 2026</span>
+
+**IRLBench: A Multi-modal, Culturally Grounded, Parallel Irish-English Benchmark for Open-Ended LLM Reasoning Evaluation**  
+**Tran, K.T.**, O’Sullivan, B., & Nguyen, H.D.  
+<span style="color:#007acc;">KDD 2026</span>
 
 **Disentangling Language Understanding and Reasoning Structures in Cross-lingual Chain-of-Thought Prompting**  
 **Tran, K.T.**, Vu, H., O’Sullivan, B., & Nguyen, H.D.  
 <span style="color:#007acc;">EMNLP 2025</span>
 
-**LaCoMSA: Language-Consistency Multilingual Self-Alignment with Latent Representation Rewarding**  
-**Tran, K.T.**, O’Sullivan, B., & Nguyen, H.D.  
-<span style="color:#007acc;">Under review at EACL 2026</span>
-
 **Disentangling Continued Pre-Training: Attention-Driven Routing and Semantic Hub Preservation in Language Adaptation**  
 **Tran, K.T.**, Tran, V.K., O’Sullivan, B., & Nguyen, H.D.  
-<span style="color:#007acc;">Under review at EACL 2026</span>
+<span style="color:#007acc;">Under review at ACL 2026</span>
 
-**IRLBench: A Multi-modal, Culturally Grounded, Parallel Irish-English Benchmark for Open-Ended LLM Reasoning Evaluation**  
-**Tran, K.T.**, O’Sullivan, B., & Nguyen, H.D.  
-<span style="color:#007acc;">Under review at KDD 2026</span>
 
 **Multi-Agent Collaboration Mechanisms: A Survey of LLMs**  
 **Tran, K.T.**, Dao, D., Nguyen, D., Pham, V., O’Sullivan, B., & Nguyen, H.D.  
