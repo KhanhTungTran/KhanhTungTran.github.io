@@ -11,7 +11,7 @@ Hi, and welcome to my page! I’m Khanh-Tung Tran (I usually go by Tung), a thir
 
 ## News
 - 02-2026: 2 of the papers with our collaborators have been accepted to [LREC 2026](https://lrec2026.info/). Congratulations to all involved!
-- 02-2026: Our paper, [*ToolBrain*](https://github.com/ToolBrain/ToolBrain), has been accepted to the Demonstration Program, [AAMAS 2026](https://cyprusconferences.org/aamas2026/)
+- 02-2026: Our paper, [*ToolBrain*](https://github.com/ToolBrain/ToolBrain), has been accepted to the Demonstration Program, [AAMAS 2026](https://cyprusconferences.org/aamas2026/).
 - 01-2026: Our paper, *LaCoMSA: Language-Consistency Multilingual Self-Alignment with Latent Representation Rewarding*, has been accepted to [EACL 2026 (main conference)](https://2026.eacl.org/).
 - 11-2025: Our paper, *IRLBench: A Multi-modal, Culturally Grounded, Parallel Irish-English Benchmark for Open-Ended LLM Reasoning Evaluation*, has been accepted to [KDD 2026](https://kdd2026.kdd.org/) - Datasets & Benchmarks Track.
 - 11-2025: Our paper, *Reasoning Transfer for an Extremely Low-resource and Endangered Language: Bridging Languages through Sample-Efficient Language Understanding*, has been accepted to [AAAI-26](https://aaai.org/conference/aaai/aaai-26/).
