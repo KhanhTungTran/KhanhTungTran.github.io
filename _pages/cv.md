@@ -24,11 +24,15 @@ Education
 Publications
 ======
 
+**Disentangling Continued Pre-training: Attention-Driven Routing and Semantic Hub Preservation in Language Adaptation**  
+**Tran, K.T.**, Tran, V.K., O’Sullivan, B., & Nguyen, H.D.
+<span style="color:#007acc;">ACL 2026</span>
+
 **LaCoMSA: Language-Consistency Multilingual Self-Alignment with Latent Representation Rewarding**  
-**Tran, K.T.**, O’Sullivan, B., & Nguyen, H.D.  
+**Tran, K.T.**, O’Sullivan, B., & Nguyen, H.D.
 <span style="color:#007acc;">EACL 2026</span>
 
-**Reasoning Transfer for an Extremely Low-resource and Endangered Language: Bridging Languages through Sample-Efficient Language Understanding**  
+**Reasoning Transfer for an Extremely Low-resource and Endangered Language: Bridging Languages through Sample-Efficient Language Understanding**
 **Tran, K.T.**, O’Sullivan, B., & Nguyen, H.D.  
 <span style="color:#007acc;">AAAI 2026</span>
 
