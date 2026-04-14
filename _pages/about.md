@@ -11,6 +11,7 @@ Hi, and welcome to my page! I’m Khanh-Tung Tran (I usually go by Tung), a thir
 
 ## News
 - 04-2026: Our paper, *Disentangling Continued Pre-training: Attention-Driven Routing and Semantic Hub Preservation in Language Adaptation*, has been accepted to [ACL 2026](https://2026.aclweb.org/).
+- 03-2026: Our paper, *Qomhrá: A Bilingual Irish and English Large Language Model*, was awarded **Best Paper** at the LoResLM Workshop @ EACL 2026 (out of 79 accepted papers).
 - 02-2026: 2 of the papers with our collaborators have been accepted to [LREC 2026](https://lrec2026.info/). Congratulations to all involved!
 - 02-2026: Our paper, [*ToolBrain*](https://github.com/ToolBrain/ToolBrain), has been accepted to the Demonstration Program, [AAMAS 2026](https://cyprusconferences.org/aamas2026/).
 - 01-2026: Our paper, *LaCoMSA: Language-Consistency Multilingual Self-Alignment with Latent Representation Rewarding*, has been accepted to [EACL 2026 (main conference)](https://2026.eacl.org/).
