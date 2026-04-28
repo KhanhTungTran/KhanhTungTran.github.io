@@ -10,6 +10,7 @@ redirect_from:
 Hi, and welcome to my page! I’m Khanh-Tung Tran (I usually go by Tung), a third-year Ph.D. student in Computer Science at [University College Cork](https://www.ucc.ie/en/), Ireland, funded by [Research Ireland’s CRT-AI programme](https://www.crt-ai.ie/). I am supervised by [Assoc. Prof. Harry Nguyen](https://research.ucc.ie/profiles/harry.nguyen@ucc.ie) and [Prof. Barry O’Sullivan](https://osullivan.ucc.ie/). My research focuses on **cross-lingual alignment** and **multilingual capability** of large language models (LLMs), particularly their applications in low-resource scenarios to promote fair and inclusive LLM development. I am also interested in **agentic AI**, especially (collective) multi-agent systems for developing real-world, collaborative AI applications.
 
 ## News
+- 04-2026: I am incredibly honoured to be included in the 30 Under 30 list in Ireland 2026 by [The Business Post](https://www.businesspost.ie/tech/30-under-30-meet-the-young-irish-innovators-defining-the-future/).
 - 04-2026: Our paper, *Disentangling Continued Pre-training: Attention-Driven Routing and Semantic Hub Preservation in Language Adaptation*, has been accepted to [ACL 2026](https://2026.aclweb.org/).
 - 03-2026: Our paper, *Qomhrá: A Bilingual Irish and English Large Language Model*, was awarded **Best Paper** at the LoResLM Workshop @ EACL 2026 (out of 79 accepted papers).
 - 02-2026: 2 of the papers with our collaborators have been accepted to [LREC 2026](https://lrec2026.info/). Congratulations to all involved!
